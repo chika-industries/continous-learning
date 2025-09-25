@@ -110,3 +110,6 @@
 | 109  | 东方              | dōng fāng   | east                          | Literally "east-direction" |
 | 110  | 那好              | nà hǎo      | well, alright                 |                           |
 | 111  | 喜欢              | xǐ huan     | to like                       |                           |
+| 112  | 冰                | bīng        | ice                           |                           |
+| 113  | 北方              | běi fāng    | north                         | Literally "north-direction" |
+| 114  | 南方              | nán fāng    | south                         | Literally "south-direction" |
